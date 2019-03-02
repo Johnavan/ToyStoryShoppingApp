@@ -1,5 +1,5 @@
 Johnavan Thomas
-Student# 100966681
+
 
 Site can be accessed at: https://thetoystoryplayland.herokuapp.com
 
